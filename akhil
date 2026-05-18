@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "print list of s3 buckets"
+aws s3 ls
+echo "print ec2 instances"
+aws ec2 describe-instances
+echo "print lambda functions"
+aws lambda list-functions
+echo "print iam users"
+aws iam list-users
