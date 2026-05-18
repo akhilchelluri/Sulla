@@ -7,3 +7,5 @@ echo "print lambda functions"
 aws lambda list-functions
 echo "print iam users"
 aws iam list-users
+echo "my name is akhil"
+echo "my name is akhilchelluri"
