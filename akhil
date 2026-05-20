@@ -9,3 +9,5 @@ echo "print iam users"
 aws iam list-users
 echo "my name is akhil"
 echo "my name is akhilchelluri"
+echo "my name is rohit"
+echo "my name is sharma"
